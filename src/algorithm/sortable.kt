@@ -1,4 +1,5 @@
 package algorithm
 
-class sortable {
+abstract class sortable {
+    abstract fun sort()
 }
